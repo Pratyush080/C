@@ -1,0 +1,61 @@
+.top{
+  background-color: #C3F8FF;
+  margin: 0;
+  position: relative;
+  padding: 100px;
+}
+.mid{
+  background-color: #CDFCF6;
+}
+.low{
+  background-color: #C8DBBE;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.hd1{
+  font-size: 5.625em;
+  margin: 0;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+.priya{
+  height: 250px;
+  width: 250px;
+  border-radius: 400px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.hd2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-c{
+  height: 70px;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-c{
+  height: 60px;
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+
+.hd3{
+  color: #11999E;
+}
